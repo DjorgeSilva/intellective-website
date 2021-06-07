@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/intellective-website/static/js/main.c407ba20.chunk.js",
+    "main.js.map": "/intellective-website/static/js/main.c407ba20.chunk.js.map",
+    "runtime-main.js": "/intellective-website/static/js/runtime-main.dff5a529.js",
+    "runtime-main.js.map": "/intellective-website/static/js/runtime-main.dff5a529.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/intellective-website/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.10d9db6a.chunk.js": "/intellective-website/static/js/2.10d9db6a.chunk.js",
+    "static/js/2.10d9db6a.chunk.js.map": "/intellective-website/static/js/2.10d9db6a.chunk.js.map",
+    "index.html": "/intellective-website/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/intellective-website/static/css/2.61b4cb56.chunk.css.map",
+    "static/js/2.10d9db6a.chunk.js.LICENSE.txt": "/intellective-website/static/js/2.10d9db6a.chunk.js.LICENSE.txt",
+    "static/media/amazeLogo.3112d9db.png": "/intellective-website/static/media/amazeLogo.3112d9db.png",
+    "static/media/banner-bg.9d54721f.jpg": "/intellective-website/static/media/banner-bg.9d54721f.jpg",
+    "static/media/banner.064921bf.png": "/intellective-website/static/media/banner.064921bf.png",
+    "static/media/blog1.2da4cc3f.png": "/intellective-website/static/media/blog1.2da4cc3f.png",
+    "static/media/blog2.a209eb07.jpg": "/intellective-website/static/media/blog2.a209eb07.jpg",
+    "static/media/blog3.d2bbd034.png": "/intellective-website/static/media/blog3.d2bbd034.png",
+    "static/media/cases-item.7850c5b8.jpg": "/intellective-website/static/media/cases-item.7850c5b8.jpg",
+    "static/media/home_ourservices.bbe63707.jpg": "/intellective-website/static/media/home_ourservices.bbe63707.jpg",
+    "static/media/marvel-Logo.123d4080.png": "/intellective-website/static/media/marvel-Logo.123d4080.png",
+    "static/media/ourProductImg.5f548267.png": "/intellective-website/static/media/ourProductImg.5f548267.png",
+    "static/media/staff_bg.7775d204.jpg": "/intellective-website/static/media/staff_bg.7775d204.jpg",
+    "static/media/wonderLogo.f9150ce0.png": "/intellective-website/static/media/wonderLogo.f9150ce0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dff5a529.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.10d9db6a.chunk.js",
+    "static/js/main.c407ba20.chunk.js"
+  ]
+}
